@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="https://app.daily.dev/GAlexandruD"><img src="https://api.daily.dev/devcards/69488efb7dda4fc1a5c404f8e6dfa201.png?r=fy3" width="400" alt="Alexandru Dragos's Dev Card"/></a>
+<a href="https://app.daily.dev/GAlexandruD"><img src="https://github.com/GAlexandruD/GAlexandruD/blob/main/devcard.svg" width="400" alt="Alexandru Dragos's Dev Card"/></a>
 
 <!--
 **GAlexandruD/GAlexandruD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
