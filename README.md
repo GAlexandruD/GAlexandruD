@@ -1,12 +1,14 @@
 ## Hello, I'm Alexandru!
 
 
-<a href="https://github.com/rishavanand" target="_blank">
+<div align="center">
+<a href="https://github.com/GAlexandruD" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/iamrishavanand" target="_blank">
+<a href="https://linkedin.com/in/dragos-ghiugan-96492938/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+</div>
 
 
 
@@ -18,8 +20,8 @@ I’m a React developer.
 <br/>
 
 
-## Rapidfire
-<table><tr><td valign="top" width="50%">
+<div align="center">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [I-Want-Please](https://github.com/MailingDelgadoMedina/I-Want-Please)
 
@@ -31,11 +33,12 @@ I’m a React developer.
 
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 
 </td></tr></table>
+</div>
 
 <br/>
 
@@ -77,9 +80,9 @@ I’m a React developer.
 
 
 <br/>
-
+<div align="center">
 ![Profile views counter](https://komarev.com/ghpvc/?username=GAlexandruD&&style=flat-square)
-
+</div>
 
 <br/>
 
