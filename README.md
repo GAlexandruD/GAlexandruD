@@ -14,7 +14,7 @@ I’m Alexandru and I am a React developer.
 
 
 
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="middle" width="100%">
 
 - 🔭 I’m currently working on [I-Want-Please](https://github.com/MailingDelgadoMedina/I-Want-Please)
 
