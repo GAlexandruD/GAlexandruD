@@ -77,7 +77,9 @@ I’m Alexandru and I am a React developer.
 <br/>
 
 
-<br />
+<br/>
+
+----
 
 <div align="center"><a href="https://app.daily.dev/GAlexandruD"><img src="https://github.com/GAlexandruD/GAlexandruD/blob/main/devcard.svg" width="400" alt="Alexandru Dragos's Dev Card"/></a></div>
 
