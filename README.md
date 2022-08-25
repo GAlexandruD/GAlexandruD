@@ -18,8 +18,8 @@ I’m a React developer.
 <br/>
 
 
-## Rapidfire
-<table><tr><td valign="top" width="50%">
+
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [I-Want-Please](https://github.com/MailingDelgadoMedina/I-Want-Please)
 
@@ -28,10 +28,6 @@ I’m a React developer.
 
 
 - 💬 Ask me about React, Next.js, JS, HTML, CSS, NODE...
-
-
-
-</td><td valign="top" width="50%">
 
 
 
