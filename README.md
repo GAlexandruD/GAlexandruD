@@ -11,10 +11,12 @@ I’m Alexandru and I am a React developer.
 
 
 <br/>
+<br/>
+<br/>
 
 
 
-<table><tr><td valign="middle" width="100%">
+
 
 - 🔭 I’m currently working on [I-Want-Please](https://github.com/MailingDelgadoMedina/I-Want-Please)
 
@@ -26,7 +28,7 @@ I’m Alexandru and I am a React developer.
 
 
 
-</td></tr></table>
+
 
 <br/>
 
