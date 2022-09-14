@@ -18,7 +18,7 @@ I’m Alexandru and I am a React developer.
 
 
 
-- 🔭 I’m currently working on [I-Want-Please](https://github.com/MailingDelgadoMedina/I-Want-Please)
+- 🔭 I’m currently working on my next project
 
 
 - 🌱 I’m currently learning Typescript
