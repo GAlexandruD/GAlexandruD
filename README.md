@@ -5,7 +5,7 @@ I’m Alexandru and I am a React developer.
 <br />
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/dragos-ghiugan-96492938/" target="_blank">
+<a href="https://www.linkedin.com/in/dragos-alexandru/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
@@ -18,7 +18,7 @@ I’m Alexandru and I am a React developer.
 
 
 
-- 🔭 I’m currently working on my next project
+- 🔭 I’m currently working on a new NextJS project
 
 
 - 🌱 I’m currently learning Typescript
